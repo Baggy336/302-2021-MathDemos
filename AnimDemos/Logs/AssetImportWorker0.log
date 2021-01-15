@@ -1,0 +1,719 @@
+Using pre-set license
+Built from '2020.2/release' branch; Version is '2020.2.1f1 (270dd8c3da1c) revision 2559448'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10  (10.0.0) 64bit' Language: 'en' Physical Memory: 24507 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2020.2.1f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+C:/Users/ehowl/Desktop/DAGD302/302-2021-MathDemos/AnimDemos
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+58531
+Successfully changed project path to: C:/Users/ehowl/Desktop/DAGD302/302-2021-MathDemos/AnimDemos
+C:/Users/ehowl/Desktop/DAGD302/302-2021-MathDemos/AnimDemos
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 27.66 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.2.1f1 (270dd8c3da1c)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.2.1f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/ehowl/Desktop/DAGD302/302-2021-MathDemos/AnimDemos/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 1060 3GB (ID=0x1c02)
+    Vendor:   
+    VRAM:     2988 MB
+    Driver:   27.21.14.5671
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.2.1f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.2.1f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.2.1f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56912
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.2.1f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.002638 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 28.20 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.396 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.001036 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.24 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.986 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.06 seconds
+Refreshing native plugins compatible for Editor in 0.24 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1095 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 56.3 MB.
+System memory in use after: 56.4 MB.
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 1537.
+Total: 2.162900 ms (FindLiveObjects: 0.168400 ms CreateObjectMapping: 0.033600 ms MarkObjects: 1.898900 ms  DeleteObjects: 0.060700 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/lerpDemo.cs
+  artifactKey: Guid(6595fc6069f18ab4fbc1c766259eca81) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/lerpDemo.cs using Guid(6595fc6069f18ab4fbc1c766259eca81) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '045ebaabcb93436ff8bd132788bae424') in 0.046732 seconds
+  Import took 0.048865 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001145 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.23 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.935 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.34 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1089 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 56.4 MB.
+System memory in use after: 56.5 MB.
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 1539.
+Total: 2.180900 ms (FindLiveObjects: 0.221600 ms CreateObjectMapping: 0.039600 ms MarkObjects: 1.894000 ms  DeleteObjects: 0.023900 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 463.883289 seconds.
+  path: Assets/lerpDemo.cs
+  artifactKey: Guid(6595fc6069f18ab4fbc1c766259eca81) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/lerpDemo.cs using Guid(6595fc6069f18ab4fbc1c766259eca81) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a13e47a81a949f813d63f9f4c1c74b79') in 0.012709 seconds
+  Import took 0.014844 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 48.795301 seconds.
+  path: Assets/lerpDemo.cs
+  artifactKey: Guid(6595fc6069f18ab4fbc1c766259eca81) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/lerpDemo.cs using Guid(6595fc6069f18ab4fbc1c766259eca81) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd2accc50c51b03766a12e9e8b0511d51') in 0.008935 seconds
+  Import took 0.011093 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000912 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.23 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.918 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.24 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1089 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 56.5 MB.
+System memory in use after: 56.6 MB.
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 1541.
+Total: 1.652000 ms (FindLiveObjects: 0.171300 ms CreateObjectMapping: 0.030400 ms MarkObjects: 1.434800 ms  DeleteObjects: 0.014500 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 167.372636 seconds.
+  path: Assets/lerpDemo.cs
+  artifactKey: Guid(6595fc6069f18ab4fbc1c766259eca81) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/lerpDemo.cs using Guid(6595fc6069f18ab4fbc1c766259eca81) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e5cf7eeb103e65ea27d40aed400c6289') in 0.006109 seconds
+  Import took 0.008109 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001049 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.25 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.911 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.29 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1089 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 56.6 MB.
+System memory in use after: 56.7 MB.
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 1543.
+Total: 2.244200 ms (FindLiveObjects: 0.179400 ms CreateObjectMapping: 0.031800 ms MarkObjects: 2.006500 ms  DeleteObjects: 0.024800 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 257.905537 seconds.
+  path: Assets/lerpDemo.cs
+  artifactKey: Guid(6595fc6069f18ab4fbc1c766259eca81) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/lerpDemo.cs using Guid(6595fc6069f18ab4fbc1c766259eca81) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '124ecfee9724c84ab63ee3320bfe5468') in 0.012926 seconds
+  Import took 0.015315 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001001 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.24 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.946 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.26 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1089 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 56.8 MB.
+System memory in use after: 56.9 MB.
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 1545.
+Total: 2.358100 ms (FindLiveObjects: 0.245800 ms CreateObjectMapping: 0.040100 ms MarkObjects: 2.048000 ms  DeleteObjects: 0.021800 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 482.322319 seconds.
+  path: Assets
+  artifactKey: Guid(00000000000000001000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets using Guid(00000000000000001000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e1a2c4dac9df7c17871e19a3b74f0e9f') in 0.015796 seconds
+  Import took 0.018068 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000379 seconds.
+  path: Assets
+  artifactKey: Guid(00000000000000001000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets using Guid(00000000000000001000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e1a2c4dac9df7c17871e19a3b74f0e9f') in 0.017982 seconds
+  Import took 0.019812 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 9.662824 seconds.
+  path: Assets/Scripts
+  artifactKey: Guid(ba6ba4c3e3bd864418b08e9c36e2ad74) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts using Guid(ba6ba4c3e3bd864418b08e9c36e2ad74) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a269031207dad3ee4df9d53914adabe5') in 0.010649 seconds
+  Import took 0.012715 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000975 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.24 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.900 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.31 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1089 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 56.9 MB.
+System memory in use after: 57.0 MB.
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 1547.
+Total: 1.660000 ms (FindLiveObjects: 0.161000 ms CreateObjectMapping: 0.029400 ms MarkObjects: 1.455600 ms  DeleteObjects: 0.013100 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 101.285452 seconds.
+  path: Assets/Scripts/animMath.cs
+  artifactKey: Guid(17c341c10b70de24996ccdbbb79f1fcb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/animMath.cs using Guid(17c341c10b70de24996ccdbbb79f1fcb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '27a6936b16fe108bcf910b995d1407d3') in 0.017196 seconds
+  Import took 0.019666 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000947 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.25 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.910 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.24 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1090 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 57.0 MB.
+System memory in use after: 57.1 MB.
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 1550.
+Total: 2.104900 ms (FindLiveObjects: 0.211100 ms CreateObjectMapping: 0.037100 ms MarkObjects: 1.835800 ms  DeleteObjects: 0.019000 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001006 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.26 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.921 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.26 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1090 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 57.1 MB.
+System memory in use after: 57.2 MB.
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 1552.
+Total: 1.730900 ms (FindLiveObjects: 0.161700 ms CreateObjectMapping: 0.029600 ms MarkObjects: 1.525100 ms  DeleteObjects: 0.013500 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 429.622358 seconds.
+  path: Assets/Scripts/animMath.cs
+  artifactKey: Guid(17c341c10b70de24996ccdbbb79f1fcb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/animMath.cs using Guid(17c341c10b70de24996ccdbbb79f1fcb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '94713f2df2f9315677f1168391f148ee') in 0.006646 seconds
+  Import took 0.008886 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000947 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.26 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.931 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.27 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1090 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 57.2 MB.
+System memory in use after: 57.3 MB.
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 1554.
+Total: 1.747400 ms (FindLiveObjects: 0.170500 ms CreateObjectMapping: 0.031200 ms MarkObjects: 1.530400 ms  DeleteObjects: 0.014400 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 445.491932 seconds.
+  path: Assets/Scripts/lerpDemo.cs
+  artifactKey: Guid(6595fc6069f18ab4fbc1c766259eca81) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/lerpDemo.cs using Guid(6595fc6069f18ab4fbc1c766259eca81) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b41996b95a98c64481f5cb33b9d25418') in 0.013084 seconds
+  Import took 0.015790 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 109.548943 seconds.
+  path: Assets/Scripts/animMath.cs
+  artifactKey: Guid(17c341c10b70de24996ccdbbb79f1fcb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/animMath.cs using Guid(17c341c10b70de24996ccdbbb79f1fcb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b1ded3199166b5d57c9abbe6632e2e2f') in 0.005804 seconds
+  Import took 0.008141 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 501.112394 seconds.
+  path: Assets/Scripts/lerpDemo.cs
+  artifactKey: Guid(6595fc6069f18ab4fbc1c766259eca81) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/lerpDemo.cs using Guid(6595fc6069f18ab4fbc1c766259eca81) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a581b00c244c22e14f1404560ee288f6') in 0.005189 seconds
+  Import took 0.007512 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000943 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.24 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.907 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.23 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1090 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 57.3 MB.
+System memory in use after: 57.4 MB.
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 1556.
+Total: 1.778400 ms (FindLiveObjects: 0.156400 ms CreateObjectMapping: 0.032000 ms MarkObjects: 1.574000 ms  DeleteObjects: 0.014800 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 172.594800 seconds.
+  path: Assets/Scripts/lerpDemo.cs
+  artifactKey: Guid(6595fc6069f18ab4fbc1c766259eca81) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/lerpDemo.cs using Guid(6595fc6069f18ab4fbc1c766259eca81) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '379c7c620d488730bea5063dcb37b023') in 0.006526 seconds
+  Import took 0.008949 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.693419 seconds.
+  path: Assets/Scripts/LerpDemo.cs
+  artifactKey: Guid(6595fc6069f18ab4fbc1c766259eca81) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/LerpDemo.cs using Guid(6595fc6069f18ab4fbc1c766259eca81) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f30c68bceb75e9f24f12d9168912fed3') in 0.013381 seconds
+  Import took 0.015635 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000959 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.23 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.051 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.27 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1090 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 57.5 MB.
+System memory in use after: 57.6 MB.
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 1558.
+Total: 2.355900 ms (FindLiveObjects: 0.184000 ms CreateObjectMapping: 0.030100 ms MarkObjects: 2.124300 ms  DeleteObjects: 0.016600 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.934244 seconds.
+  path: Assets/Scripts/animMath.cs
+  artifactKey: Guid(17c341c10b70de24996ccdbbb79f1fcb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/animMath.cs using Guid(17c341c10b70de24996ccdbbb79f1fcb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c899c7e1ed80dfcee6b66c633dac3e9c') in 0.006490 seconds
+  Import took 0.008689 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.403891 seconds.
+  path: Assets/Scripts/AnimMath.cs
+  artifactKey: Guid(17c341c10b70de24996ccdbbb79f1fcb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/AnimMath.cs using Guid(17c341c10b70de24996ccdbbb79f1fcb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8a784ce68c75687c2e200e21ec03626f') in 0.011638 seconds
+  Import took 0.013751 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000957 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.24 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.890 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.25 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1090 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 57.6 MB.
+System memory in use after: 57.7 MB.
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 1560.
+Total: 1.717800 ms (FindLiveObjects: 0.153300 ms CreateObjectMapping: 0.030500 ms MarkObjects: 1.519800 ms  DeleteObjects: 0.013100 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 74.263051 seconds.
+  path: Assets/Scripts/LerpDemo.cs
+  artifactKey: Guid(6595fc6069f18ab4fbc1c766259eca81) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/LerpDemo.cs using Guid(6595fc6069f18ab4fbc1c766259eca81) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5a1431f959826f3eb2c48c23cc6e3e78') in 0.008385 seconds
+  Import took 0.010776 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000999 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.32 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.943 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.31 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1090 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 57.7 MB.
+System memory in use after: 57.8 MB.
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 1562.
+Total: 3.221000 ms (FindLiveObjects: 0.275600 ms CreateObjectMapping: 0.064600 ms MarkObjects: 2.857500 ms  DeleteObjects: 0.021200 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000962 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.26 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.905 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.26 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1090 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 57.8 MB.
+System memory in use after: 57.9 MB.
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 1564.
+Total: 2.576800 ms (FindLiveObjects: 0.294100 ms CreateObjectMapping: 0.062300 ms MarkObjects: 2.180600 ms  DeleteObjects: 0.037700 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 144.837737 seconds.
+  path: Assets/Scripts/LerpDemo.cs
+  artifactKey: Guid(6595fc6069f18ab4fbc1c766259eca81) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/LerpDemo.cs using Guid(6595fc6069f18ab4fbc1c766259eca81) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '881f6f5efab81275876deae5a341cd88') in 0.008298 seconds
+  Import took 0.010740 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.574686 seconds.
+  path: Assets/Scripts/lerpDemo.cs
+  artifactKey: Guid(6595fc6069f18ab4fbc1c766259eca81) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/lerpDemo.cs using Guid(6595fc6069f18ab4fbc1c766259eca81) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8576d839a91b042f35f2fd2799397a4d') in 0.005154 seconds
+  Import took 0.007342 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000971 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.25 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.899 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.27 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1090 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 57.9 MB.
+System memory in use after: 58.0 MB.
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 1566.
+Total: 1.835500 ms (FindLiveObjects: 0.180400 ms CreateObjectMapping: 0.031600 ms MarkObjects: 1.602500 ms  DeleteObjects: 0.019700 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001043 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.34 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.940 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.34 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1090 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 58.0 MB.
+System memory in use after: 58.1 MB.
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 1568.
+Total: 2.611100 ms (FindLiveObjects: 0.269400 ms CreateObjectMapping: 0.081800 ms MarkObjects: 2.240900 ms  DeleteObjects: 0.017700 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 143.975322 seconds.
+  path: Assets/Scripts/LerpDemo.cs
+  artifactKey: Guid(6595fc6069f18ab4fbc1c766259eca81) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/LerpDemo.cs using Guid(6595fc6069f18ab4fbc1c766259eca81) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '331f45bd2bf93c6f05ccb64dc08d1966') in 0.008839 seconds
+  Import took 0.011887 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000984 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.24 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.957 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.25 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1089 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 58.1 MB.
+System memory in use after: 58.2 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1569.
+Total: 1.718900 ms (FindLiveObjects: 0.176000 ms CreateObjectMapping: 0.030400 ms MarkObjects: 1.493000 ms  DeleteObjects: 0.017700 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 16.824234 seconds.
+  path: Assets/Scripts/LerpDemo.cs
+  artifactKey: Guid(6595fc6069f18ab4fbc1c766259eca81) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/LerpDemo.cs using Guid(6595fc6069f18ab4fbc1c766259eca81) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5569006e436bcde62b81f435f56fab86') in 0.009517 seconds
+  Import took 0.011880 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000919 seconds.
+  path: Assets/Scripts/LerpDemo.cs
+  artifactKey: Guid(6595fc6069f18ab4fbc1c766259eca81) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/LerpDemo.cs using Guid(6595fc6069f18ab4fbc1c766259eca81) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5569006e436bcde62b81f435f56fab86') in 0.004743 seconds
+  Import took 0.007067 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001089 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.34 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.981 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.24 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1090 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 58.3 MB.
+System memory in use after: 58.4 MB.
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 1572.
+Total: 1.931400 ms (FindLiveObjects: 0.178100 ms CreateObjectMapping: 0.034200 ms MarkObjects: 1.694900 ms  DeleteObjects: 0.023000 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 10.658326 seconds.
+  path: Assets/Scripts/LerpDemo.cs
+  artifactKey: Guid(6595fc6069f18ab4fbc1c766259eca81) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/LerpDemo.cs using Guid(6595fc6069f18ab4fbc1c766259eca81) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '06b989f3cf6c03afba31a93234376062') in 0.007596 seconds
+  Import took 0.009903 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000338 seconds.
+  path: Assets/Scripts/LerpDemo.cs
+  artifactKey: Guid(6595fc6069f18ab4fbc1c766259eca81) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/LerpDemo.cs using Guid(6595fc6069f18ab4fbc1c766259eca81) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '06b989f3cf6c03afba31a93234376062') in 0.004540 seconds
+  Import took 0.006679 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 16.443784 seconds.
+  path: Assets/Scripts/LerpDemo.cs
+  artifactKey: Guid(6595fc6069f18ab4fbc1c766259eca81) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/LerpDemo.cs using Guid(6595fc6069f18ab4fbc1c766259eca81) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '48808ff84438446ad86009624a19dc21') in 0.004763 seconds
+  Import took 0.006983 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001146 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.26 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.905 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.23 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1090 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 58.3 MB.
+System memory in use after: 58.4 MB.
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 1574.
+Total: 1.789200 ms (FindLiveObjects: 0.161700 ms CreateObjectMapping: 0.030200 ms MarkObjects: 1.582300 ms  DeleteObjects: 0.013900 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000966 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.25 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.878 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.27 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1090 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 57.5 MB.
+System memory in use after: 57.6 MB.
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 1576.
+Total: 2.044700 ms (FindLiveObjects: 0.181100 ms CreateObjectMapping: 0.033800 ms MarkObjects: 1.808300 ms  DeleteObjects: 0.019600 ms)
+
