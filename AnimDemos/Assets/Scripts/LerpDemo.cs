@@ -15,6 +15,8 @@ public class LerpDemo : MonoBehaviour
     private float animationPlayheadTime = 0;
     private bool isAnimPlaying = false;
 
+    public AnimationCurve animationCurve;
+
     // Start is called before the first frame update
     void Start()
     {
@@ -32,26 +34,32 @@ public class LerpDemo : MonoBehaviour
             percent = animationPlayheadTime / animationLength;
             // Clamp the range from 0 to 1
             percent = Mathf.Clamp(percent, 0, 1);
+
+            //percent = percent * percent; // Ease in: speed up
+            //percent = percent * percent * (3 - 2 * percent); // Smooth step: speeds up, then slows down.
+
+            float p = animationCurve.Evaluate(percent);
+
             // Move object to lerped position
-            Lerpy();
+            Lerpy(p);
             // Stop playing
             if (percent >= 1) isAnimPlaying = false;
         }
         
     }
 
-    private void Lerpy()
+    private void Lerpy(float p)
     {
         transform.position = AnimMath.Lerp(
                     objectStart.transform.position,
                     objectEnd.transform.position,
-                    percent
+                    p
                     );
     }
 
     private void OnValidate()
     {
-        Lerpy();
+        Lerpy(percent);
     }
 
     public void PlayTweenAnim()
