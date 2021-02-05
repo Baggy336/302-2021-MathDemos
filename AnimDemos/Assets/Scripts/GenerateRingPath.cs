@@ -6,7 +6,7 @@ using UnityEngine;
 public class GenerateRingPath : MonoBehaviour
 {
     [Range(10, 60)] public int num = 10;
-    [Range(3, 20)] public float radius = 5;
+    [Range(3, 300)] public float radius = 5;
     LineRenderer line;
 
     void Start()

@@ -39,7 +39,7 @@ public class OrbitCameraControl : MonoBehaviour
 
         float scroll = Input.GetAxisRaw("Mouse ScrollWheel");
         targetDollyDis += scroll * mouseScrollMultiplier;
-        targetDollyDis = Mathf.Clamp(targetDollyDis, 2.5f, 15);
+        targetDollyDis = Mathf.Clamp(targetDollyDis, 3.5f, 20);
         
         dollyDis = AnimMath.Slide(dollyDis, targetDollyDis, .05f);
         cam.transform.localPosition = new Vector3(0, 0, -dollyDis);
